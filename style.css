@@ -1,0 +1,12 @@
+.title{
+    background-color: rgb(200, 249, 255);
+    border-left: 10px solid rgb(0, 225, 255);
+    box-sizing: border-box;
+}
+
+article p + p{
+    margin-top: 30px;
+}
+li{
+    color:red;
+}
